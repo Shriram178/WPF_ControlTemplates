@@ -51,6 +51,8 @@ We created a `CheckBox` styled to look like a toggle switch using a `ControlTemp
 
 ### 🖼️ Output
 ![20250614-1137-09 3697155-ezgif com-video-to-gif-converter](https://github.com/user-attachments/assets/26746739-1b07-401c-8938-042d2bef1fce)
+
+
 This is a checkbox.
 
 ---
@@ -119,6 +121,8 @@ We replaced the default dropdown style with a custom `ControlTemplate`.
 
 ### 🖼️ Output
 ![20250614-1144-14 5705409-ezgif com-video-to-gif-converter](https://github.com/user-attachments/assets/89554c98-cd4f-45df-966b-086c076a3f88)
+
+
 Customised Combo Box
 
 ---
