@@ -1,0 +1,95 @@
+# Build results
+[Bb]in/
+[Oo]bj/
+
+# User-specific files
+*.user
+*.suo
+*.userosscache
+*.sln.docstates
+
+# Rider-specific
+.idea/
+
+# VS Code-specific
+.vscode/
+
+# Windows image file caches
+Thumbs.db
+ehthumbs.db
+
+# ASP.NET Scaffolding
+ScaffoldingReadMe.txt
+
+# NuGet packages
+*.nupkg
+# The packages folder can be ignored if you have `restore` enabled in NuGet
+**/packages/*
+!**/packages/build/
+!**/packages/repositories.config
+
+# Visual Studio cache files
+.vs/
+# Includes .suo, .user, .userosscache, .sln.docstates
+
+# DotCover
+*.dotCover
+
+# ReSharper
+_ReSharper*/
+*.[Rr]e[Ss]harper
+
+# Windows Installer files
+*.cab
+*.msi
+*.msm
+*.msp
+
+# Logs
+*.log
+
+# Test Results
+[Tt]est[Rr]esult*/
+*.trx
+*.coverage
+*.coveragexml
+
+# Temporary files
+*.tmp
+
+# Web workspaces
+*.publishsettings
+*.Publish.xml
+
+# Entity Framework
+App_Data/
+
+# Local history for JetBrains IDEs
+.idea/
+
+# Backup & cache
+*.bak
+*.cache
+*.old
+
+# Rider build output
+out/
+
+# Others
+*.dbmdl
+*.pdb
+*.db
+*.sqlite
+
+# WPF-specific (optional)
+*.g.cs
+*.g.i.cs
+*.resources
+*.xaml.cs
+*.Designer.cs
+
+# Ignore generated assembly info
+**/AssemblyInfo.cs
+
+# Ignore JetBrains UI designer files
+*.jfm
